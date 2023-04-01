@@ -24,4 +24,3 @@ _ Qtile
 
 _ XFCE
 
-_ No desktop environment
