@@ -1,7 +1,7 @@
 # quickinstall
 
 ## Purpose:
-This installer is based on FreeBSD's bsdinstall and bsdconfig.
+This installer is based on FreeBSD's bsdinstall.
 
 ## Objectives:
 * Provide an option for the end user to decide whether to install a desktop environment or not to install a desktop environment.
